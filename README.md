@@ -45,7 +45,7 @@ Merhaba, ben Efe. 2018'den beri yazılımla ilgileniyorum. 2019 yılında proje 
 <a href="https://discord.com/channels/@me/697454127545974895"><img src="https://skillicons.dev/icons?i=discord" style="height: 38px;"></img></a> &nbsp; <a href="https://instagram.com/efeoezc"><img src="https://skillicons.dev/icons?i=instagram" style="height: 38px;"></img></a> &nbsp; <a href="https://twitter.com/efeeozc"><img src="https://skillicons.dev/icons?i=twitter" style="height: 38px;"></img></a>
 
 ### 📈 İstatistiklerim
-<img src="https://github-readme-stats.vercel.app/api?username=efeeozc&show_icons=true&hide_title=true&theme=dark&hide_border=true" style="width: 260px;"></img>
-<br><img src="https://github-readme-streak-stats.herokuapp.com/?user=efeeozc&theme=dark&hide_border=true&stroke=0000" style="width: 260px;"></img>
-<br><img src="https://activity-graph.herokuapp.com/graph?username=efeeozc&bg_color=151515&color=9f9f9f&line=9f9f9f&point=FFFFFF&hide_border=true" style="width: 260px;"></img>
-<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeeozc&layout=compact&theme=dark&hide_border=true" style="width: 260px;"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=efeeozc&show_icons=true&hide_title=true&theme=dark&hide_border=true" style="width: 80%;"></img>
+<br><img src="https://github-readme-streak-stats.herokuapp.com/?user=efeeozc&theme=dark&hide_border=true&stroke=0000" style="width: 80%;"></img>
+<br><img src="https://activity-graph.herokuapp.com/graph?username=efeeozc&bg_color=151515&color=9f9f9f&line=9f9f9f&point=FFFFFF&hide_border=true" style="width: 80%;"></img>
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeeozc&layout=compact&theme=dark&hide_border=true" style="width: 80%;"></img>
